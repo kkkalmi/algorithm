@@ -1,5 +1,4 @@
-#이진탐색
-
+faee52a (Solve part2_num2_3)
 def solution(L, x):
     lower = 0
     upper = len(L) - 1
