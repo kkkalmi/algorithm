@@ -1,3 +1,5 @@
+#이진탐색
+
 def solution(L, x):
     lower = 0
     upper = len(L) - 1
